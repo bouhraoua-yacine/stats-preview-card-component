@@ -51,9 +51,9 @@ body {
 
 .card__header {
     font-family: var(--ff-inter);
+    color: var(--white);
     font-size: 14px;
     font-weight: 700;
-    color: var(--white);
     line-height: 32px;
     margin-top: 40px;
 }
