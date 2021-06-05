@@ -38,7 +38,7 @@ body {
     height: 240px;
     border-radius: 8px 8px 0 0;
     background-color: var(--purpleish);
-    background-image: url(/images/image-header-mobile.jpg);
+    background-image: url(./images/image-header-mobile.jpg);
     background-blend-mode: multiply;
     background-size: cover;
 }
@@ -118,7 +118,7 @@ body {
     .card__img-container {
         width: 540px;
         height: 446px;
-        background-image: url(/images/image-header-desktop.jpg);
+        background-image: url(./images/image-header-desktop.jpg);
     }
 
     .card__main-content {
